@@ -12,7 +12,7 @@ app.use(express.json());
 
 
 mongoose.connect(
-    process.env.MONGODB_URI || 'mongodb://localhost/' + process.env.DB_NAME,
+    process.env.MONGODB_URI || 'mongodb://localhost/fitnessTracker_db',
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
