@@ -1,5 +1,6 @@
 # E-Commerce-Back-End
-
+[Live URL](https://warm-wildwood-42692.herokuapp.com/)\
+[Github URL](https://github.com/jnordan132/Fitness-Tracker)
 # Description
 This project is a fullstack fittness tracker that allows you to create workouts and log them while also saving stats for you to look back on, it uses MongoDB for a database 
 # Table of Contents 
